@@ -6,3 +6,7 @@
 
 А также создать [ScriptedJenkinsFile](https://github.com/Evgeniy-Nikolskiy/hw85/blob/main/ScriptedJenkinsFile)
 который будет запускать [playbook](https://github.com/Evgeniy-Nikolskiy/hw85) и собирать весь стек ролей из предыдущиего ДЗ с ролями
+
+Для решения задачи с --check --diff я выбрал параметризированную сборку присвоил имя prod_run 
+и в stage описал условия 
+![pic1](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/hw94/master/assets/941.jpg)
